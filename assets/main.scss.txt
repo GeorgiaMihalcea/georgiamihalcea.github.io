@@ -1,0 +1,22 @@
+.animated-text {
+    opacity: 0; /* Începe invizibil */
+    transform: translateY(20px); /* Începe puțin mai jos */
+    animation: fadeInSlideUp 1.5s ease-out forwards; /* Aplică animația */
+    animation-delay: 0.5s; /* Începe animația după 0.5 secunde */
+    text-align: center; /* Centrează textul, dacă vrei */
+    font-size: 3em; /* Mărește dimensiunea fontului pentru a fi proeminent */
+    color: #007bff; /* O culoare de accent (ex: albastru) */
+    margin-top: 50px; /* Spațiu de deasupra */
+}
+
+/* Definirea animației */
+@keyframes fadeInSlideUp {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
