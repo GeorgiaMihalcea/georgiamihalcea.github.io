@@ -5,3 +5,4 @@
 layout: home
 ---
 title: Reframe Lab #
+<h1 class="animated-text">Semantic Shift</h1>
