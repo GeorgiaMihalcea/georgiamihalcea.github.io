@@ -4,4 +4,8 @@
 
 layout: home
 ---
+# Welcome to Film Shaper Lab!
+
 <h1 class="animated-text">Semantic Shift</h1>
+
+This is a place where we explore the semantic enrichment of films and media content.
