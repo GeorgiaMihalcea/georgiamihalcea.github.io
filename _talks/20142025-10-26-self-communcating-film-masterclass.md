@@ -49,7 +49,7 @@ A precise structural practice that maps the architecture of sense within a film.
 
 ---
 
-## Core Research Keywords
+## Keywords
 Narrative Decryption` • `Informational Montage` • `Machine-Readable Filmmaking` • `Film Communication` • `Human-Machine Communication` • `AI-Ready Cinema` • `End-to-End Film Production Framework` • `Algorithmic Film Distribution` • `Film Discovery`
 
 [More information about this AI Conference and Masterclass about AI-ready narrative structures in film production](https://cinetic.arts.ro/en/evenimente/ai-in-art-practices-and-research-conference-ii/)
