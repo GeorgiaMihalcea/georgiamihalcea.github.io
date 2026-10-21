@@ -8,7 +8,7 @@ Education
 ======
 *   **Ph.D. in Cinema and Media Studies**
     *   *Dissertation:* "The E-Film: From Algorithms to Audience". Cultivating the *Mise-en-Sense* & Directing the Algorithmic Gaze Framework*
-    *   *Research Focus:* Developing a unified framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-machine communication.
+    *   *Research Focus:* Developing a unified communication framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-machine communication.
 
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
