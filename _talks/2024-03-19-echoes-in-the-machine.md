@@ -8,7 +8,7 @@ date: 2024-03-19
 location: "CINETic - UNATC, Bucharest, Romania"
 ---
 
-[More information about this AI Conference and ](http://exampleurl.com)
+[More information about this AI Conference and AI-augmented narratives ](https://cinetic.arts.ro/evenimente/ai-in-art-practices-and-research/)
 
 # Echoes in the Machine: Unveiling Hidden Depths through the Lens of Established Genius
 
