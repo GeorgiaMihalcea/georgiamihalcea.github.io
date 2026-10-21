@@ -7,7 +7,7 @@ venue: "AI in Art Practices and Research I"
 date: 2024-03-19
 location: "CINETic - UNATC, Bucharest, Romania"
 ---
-Conference presentation detailing a 1-day strategic intervention using Gemini Advanced and Leo Tolstoy's text to reverse-engineer emotional storytelling and build machine-readable visual campaign structures.
+[Conference presentation detailing a 1-day strategic intervention using Gemini Advanced and Leo Tolstoy's text to reverse-engineer emotional storytelling and build machine-readable visual campaign structures.]
 
 # Echoes in the Machine: Unveiling Hidden Depths through the Lens of Established Genius
 
