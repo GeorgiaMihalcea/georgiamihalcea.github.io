@@ -2,9 +2,9 @@
 title: "Conference Masterclass on Narrative Decryption for a New AI-Ready Cinema & The Self-Communicating Film"
 collection: talks
 type: "Masterclass"
-permalink: /talks/2025-05-15-cinetic-masterclass
+permalink: /talks/2025-10-26-self-communcating-film-masterclass
 venue: "AI in Art Practices and Research II"
-date: 2014-02-01
+date: 2025-10-26
 location: "CINETic/UNATC, Bucharest, Romania"
 ---
 
