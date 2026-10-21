@@ -18,7 +18,7 @@ location: "CINETic/UNATC, Bucharest, Romania"
 
 ---
 
-## 💻 I. The Digital Black Hole: Architectural Dissonances
+## I. The Digital Black Hole: Architectural Dissonances
 Traditional filmmaking processes create an unsustainable conflict of mindsets when meeting modern non-linear networks:
 *   **The Incompatible Endpoint:** A traditional film functions as a static *endpoint*, whereas modern digital networks demand an open, discoverable *node*.
 *   **The Pixel Fallacy:** Traditional workflows focus on encoding *pixels* (visual form), while algorithmic environments require *sense* (structural meaning).
