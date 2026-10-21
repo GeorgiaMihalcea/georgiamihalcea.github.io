@@ -6,7 +6,7 @@ author_profile: true
 ---
 # Transversal Thinking for a Non-Linear World
 
-I am a filmmaker, media scholar, and digital communication consultant with a strong economic and business foundation. My work bridges human emotional expression and algorithmic systems, operating at the intersection of **Cinema, Information Architecture (IA), Semantic Web, and GenAI**. Through this synthesis, I focus on expanding audiovisual visibility, discovery, and human-machine communication in the generative era. The primary objective of my research framework is to establish an interchangeable, bilingual system where narrative art is structured to be simultaneously mind-readable (deeply resonant for human audiences) and machine-readable (perfectly discoverable and legible to AI and search and recommendation algorithms).
+I am a filmmaker, media scholar, and digital communication consultant with a strong economic and business foundation. My work bridges human emotional expression and algorithmic systems, operating at the intersection of **Cinema, Information Architecture (IA), Semantic Web, and GenAI**. Through this synthesis, I focus on expanding audiovisual visibility, discovery, and human-machine communication in the generative era. The primary objective of my research framework is to establish an interchangeable, bilingual system - a unified communication framework where narrative art is structured to be simultaneously mind-readable (deeply resonant for human audiences) and machine-readable (perfectly discoverable and legible to AI and search and recommendation algorithms).
 
 ## Research Focus: Directing the Algorithmic Gaze – A Framework for Machine-Readable Films and Audiovisual Content
 
