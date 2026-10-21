@@ -32,8 +32,8 @@ Work Experience
 *   **SME Entrepreneur**, *Classy Group*, Bucharest, RO, 2006 – 2014
 *   **Operations Manager**, *Pit Motors Leasing*, Bucharest, RO, 2004 – 2006
 
- Skills & Core Competencies
- ======
+Skills & Core Competencies
+======
 *   **Narrative Intelligence & Semantic Architectures**
     *   *Mise-en-Sense* Framework Development & Content Structuring
     *   Machine-Readable Film Architecture & Metadata Design
