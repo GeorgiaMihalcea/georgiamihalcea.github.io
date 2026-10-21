@@ -34,4 +34,4 @@ Whether designing strategic interventions for complex crises or re-architecting 
 
 I am globally available for **Fractional Advisory roles**, custom **Challenge Design**, academic engagements (**Masterclasses, Lectures, and Seminars**), as well as **artistic and research project collaborations**. My work centers on creator-driven, metadata-powered frameworks for AI filmmaking and audiovisual content production, cinematic information architecture, and author-led algorithmic distribution. 
 
-Explore the specific avenues for active partnership, engagement frameworks, and consulting terms in the **[Services & Collaborations](/services/)** section.
+Explore the specific avenues for active partnership, engagement frameworks, and consulting terms in **[Services & Collaborations](/services/)**
