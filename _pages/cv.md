@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV - Transdisciplinary Systems Integrator"
+title: "CV"
 permalink: /cv/
 author_profile: true
 ---
