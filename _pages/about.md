@@ -25,10 +25,8 @@ Whether designing strategic interventions for complex crises or re-architecting 
 
 ## Practical Applications & Proofs of Concept
 
-*   ***[San Pedro’s Dream (2026)](/portfolio/):*** An experimental synthetic art film built entirely upon the semantic filmmaking framework and generative video/audio workflows. 
-*   Explore my latest creative applications (such as ***The Decryptor Deck*** or ***Semantic Translation Protocol***) directly in the **[Portfolio section](/portfolio/)**.
-
----
+*   ***San Pedro’s Dream (2026):*** An experimental synthetic art film built entirely upon the semantic filmmaking framework and generative video/audio workflows. 
+*   Explore my latest creative applications (such as ***The Decryptor Deck*** or ***Semantic Translation Protocol***) in the **[Portfolio](/portfolio/)**.
 
 ---
 
