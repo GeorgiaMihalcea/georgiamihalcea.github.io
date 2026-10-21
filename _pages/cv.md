@@ -49,7 +49,7 @@ Education & Professional Training
     *   Crowdsourcing Campaign Strategy & Solution/Project Evaluation
 
 *   **Audiovisual Production & Project Engineering**
-    *   Film & TV Production Management (Traditional, Transmedia & AI)
+    *   Film, TV & Media Production Management (Traditional, Transmedia & AI)
     *   Grant Architecture & Cultural Project Design
     *   Algorithmic Content Distribution & Enhanced Digital Visibility
     *   Budgeting, Resource Optimization & Operations Management
