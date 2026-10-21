@@ -6,9 +6,10 @@ author_profile: true
 ---
 Education
 ======
-* Ph.D. in Cinema and Media Studies, National University of Theatre and Film "I.L. Caragiale", 2026 (expected)
-*Dissertation:* From Mise-en-Scène to Mise-en-Sense: Directing the Algorithmic Gaze"
-*Research Focus:* Developing a unified communication framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-AI communication.
+*   **Ph.D. in Cinema and Media Studies**
+    *   *Dissertation:* "From Mise-en-Scène to Mise-en-Sense: Directing the Algorithmic Gaze"
+    *   *Research Focus:* Developing a unified framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-machine communication.
+
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
