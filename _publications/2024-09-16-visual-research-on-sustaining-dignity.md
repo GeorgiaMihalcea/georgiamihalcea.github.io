@@ -3,7 +3,7 @@ title: "The Weight of 2 Million Walls: Visual Research on Sustaining Dignity in 
 collection: publications
 category: manuscripts
 permalink: /publication/2024-09-16-visual-research-on-sustaining-dignity
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This artistic research visual essay serves as a theoretical and visual meta-discourse derived from the creation process of a social ad-film by employing a structured vocabulary of emotions.'
 date: 2024-09-16
 venue: 'Zenodo Open Science Repository'
 slidesurl: 'https://zenodo.org/records/20778629'
