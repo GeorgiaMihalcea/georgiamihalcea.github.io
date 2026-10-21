@@ -8,7 +8,7 @@ date: 2024-09-16
 venue: 'Zenodo Open Science Repository'
 slidesurl: 'https://zenodo.org/records/20778629'
 paperurl: 'https://zenodo.org/records/20778629'
-citation: 'Mihalcea, Georgia (2024). The Weight of 2 Million Walls: Visual Research on Sustaining Dignity in Aging Alone in Romania; SPOTLIGHT Seminar: Staring at People. Interdisciplinarity and ambiguity of playing with the visibility of humans in cities, Bucharest, Romania, 16 September 2024, Session Visibility of city dwelling; Zenodo, DOI 10.5281/zenodo.20778629.'
+citation: 'Mihalcea, Georgia (2024). The Weight of 2 Million Walls: Visual Research on Sustaining Dignity in Aging Alone in Romania; SPOTLIGHT Seminar: Staring at People. Interdisciplinarity and ambiguity of playing with the visibility of humans in cities, Bucharest, Romania, 16 September 2024, Session Visibility of city dwelling; <i>Zenodo, DOI 10.5281/zenodo.20778629</i>.'
 ---
 ## Summary
 Originally delivered at the international *[SPOTLIGHT Seminar - Staring at People. Interdisciplinarity and ambiguity of playing with the visibility of humans in cities](https://cinetic.arts.ro/evenimente/spotlight-seminar)* (2024), this published work functions as a derivative artistic product that applies the ["From Numbness to Narrative" methodology](https://georgiamihalcea.github.io/publication/2024-11-11-iceri-paper) to the data and field-insights gathered during the filmmaking process.
