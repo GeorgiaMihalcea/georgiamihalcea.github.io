@@ -19,6 +19,8 @@ This peer-reviewed paper and poster presentation detail an autoethnographic fram
 
 This research is recognized in international studies analyzing automated content workflows, such as *Algorithmic Scriptwriting and the Preservation of Human Emotional Resonance in Narrative Broadcasting* (2025), published in the [BEAM Journal](https://journal.sundarapublishing.com/index.php/beam/article/view/149).
 
-### Alternative Title
+### Alternative Titles
 
-The core concept of the paper was later explained in the paper *The Unindexed Internal Web: Structuring Human Emotions as Metadata for Narrative Decryption*, published on [My Zenodo Repository](https://zenodo.org/records/20776522) 
+* **The Unindexed Internal Web: Structuring Human Emotions as Metadata for Narrative Decryption**, published on [My Zenodo Repository](https://zenodo.org/records/20776522) 
+* **From Numbness to Narratable: A Search-Engine Framework for Indexing the Invisible Architecture of Emotions**
+* **Algorithmic Principles Applied to Human Emotion System: Re-Architecting Unstructured Feelings into Dual Storytelling Signals**
