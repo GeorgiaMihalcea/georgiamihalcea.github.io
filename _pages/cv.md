@@ -16,7 +16,7 @@ Education & Professional Training
 * **BSc / MSc in Economic Sciences, "Titu Maiorescu" University, Bucharest, Romania, 1997 – 2002**
     *   *Specialization:* Financial Accounting and Management of Information Systems
 
-# Work Experience
+Work Experience
 ======
 *   **Filmmaker, Media Production & Cross-Industry Consultant**, *Independent*, 2019 – Present
 *   **Film & TV Production Management**, *Romania & International*, 2010 – Present
@@ -32,7 +32,7 @@ Education & Professional Training
 *   **SME Entrepreneur**, *Classy Group*, Bucharest, RO, 2006 – 2014
 *   **Operations Manager**, *Pit Motors Leasing*, Bucharest, RO, 2004 – 2006
 
- # Skills & Core Competencies
+ Skills & Core Competencies
  ======
 *   **Narrative Intelligence & Semantic Architectures**
     *   *Mise-en-Sense* Framework Development & Content Structuring
@@ -58,8 +58,8 @@ Education & Professional Training
     *   Financial Accounting & Management of Information Systems
     *   International Copywriting & Transmedia Narrative Mapping
 
-# Filmography, Research-Creation and Autoethnography Portfolio
-
+Filmography, Research-Creation and Autoethnography Portfolio
+======
 *   *Traditional Films:*
     *   **Locationista** (2021, dramedy)
     *   **Article 22** (2020, legal drama)
@@ -69,8 +69,9 @@ Education & Professional Training
     *   **San Pedro's Dream: Hello from E-Time** (2024, Mise-en-Sense framework)
     *   **A Creator's Memoir: Sculpting the Void** (2026, personal narrative)
 
-*   *Brand & Social Impact Films:*
-    *   **Silent Heroes** (2024, fundraising narrative)
+*   *Brand & Social Impact Ad-Films & Commercials:*
+    *   **Silent Heroes** (2024, fundraising narrative for Fundația Crucea Alb-Galbenă, România)
+    *   **The Legend of the Horses: Emotional Health Camps via Equine-Assisted Therapy** (2026, radio promotion spot for Asociația Legenda Cailor, România)
 
 *   *Transmedia – Films to Music Videos:*
     *   **Sombras en la piel** (2026)
