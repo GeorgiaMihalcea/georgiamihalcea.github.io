@@ -7,9 +7,9 @@ author_profile: true
 Education & Professional Training
 ======
 *   **Ph.D. in Cinema and Media Studies, National University of Theatre and Film "I.L. Caragiale" (UNATC), Bucharest, Expected 2026**
-    *   *Dissertation:* "The E-Film: From Algorithms to Audience". Cultivating the *Mise-en-Sense* & Directing the Algorithmic Gaze Framework*
+    *   *Dissertation:* "The E-Film: From Algorithms to Audience". Cultivating the *Mise-en-Sense* & Directing the Algorithmic Gaze Framework.
     *   *Research Focus:* Developing a unified communication framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-machine communication.
-    *   *Distinction:* Exceptional Research Results 2025 Award within UNATC
+    *   *Distinction:* Exceptional Research Results 2025 Award within UNATC.
 * **Artificial Intelligence in Performing Arts and Cinema, Professional Certification, UNATC, 2025 – 2026**
 * **SEO Specialist, Attendance Certification, Skills Lab, Bucharest, Romania, 2023**
 * **M.F.A in Film Production, UNATC, Bucharest, Romania, 2019 – 2021**
