@@ -6,7 +6,7 @@ excerpt: 'Peer-reviewed Paper & Poster Presentation featured under Pedagogical I
 date: 2024-11-11
 venue: 'ICERI2024 Proceedings'
 paperurl: '[https://iated.org](https://library.iated.org/view/MIHALCEA2024FRO)'
-citation: 'Mihalcea, G. (2024). From Numbness to Narrative: A Filmmaker’s AI-Augmented Journey to Emotional Resonance in Storytelling, Unveiling the Potential of a Structured Vocabulary of Emotions. In ICERI2024 Proceedings (pp. 3997-4001). IATED. DOI: 10.21125/iceri.2024.1015'
+citation: 'Mihalcea, G. (2024). From Numbness to Narrative: A Filmmaker’s AI-Augmented Journey to Emotional Resonance in Storytelling, Unveiling the Potential of a Structured Vocabulary of Emotions. In ICERI2024 Proceedings (pp. 3997-4001). <i>IATED. DOI: 10.21125/iceri.2024.1015</i>'
 ---
 
 ### Project Overview & Educational Impact
