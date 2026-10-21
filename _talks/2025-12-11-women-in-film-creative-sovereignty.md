@@ -8,7 +8,7 @@ date: 2025-12-11
 location: "CINETic/UNATC, Bucharest, Romania"
 ---
 
-[An academic presentation exploring the intersection of film theory and semantic architectures. The session introduced the *Mise-en-Sense* methodology as a tool for independent creators to structure narrative intent, ensuring visibility and authorial sovereignty within AI-driven algorithmic distribution channels. Conference presentation addressing the conflict between closed film forms and non-linear networks, introducing creator-authored ontologies to secure intellectual property and creative sovereignty in the age of AI.]
+An academic presentation exploring the intersection of film theory and semantic architectures. The session introduced the *Mise-en-Sense* methodology as a tool for independent creators to structure narrative intent, ensuring visibility and authorial sovereignty within AI-driven algorithmic distribution channels. Conference presentation addressing the conflict between closed film forms and non-linear networks, introducing creator-authored ontologies to secure intellectual property and creative sovereignty in the age of AI.
 
 
 # Directing the Algorithmic Gaze: Reclaiming Creative Sovereignty through Semantic Architectures
