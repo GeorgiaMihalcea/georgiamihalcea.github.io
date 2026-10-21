@@ -58,7 +58,7 @@ Beyond solving the commercial NGO challenge, the workflow triggered a profound a
 
 ---
 
-## 📋 Presentation Slides & Visual Outline
+## Presentation Slides & Visual Outline
 The presentation structure as delivered at CINETic follows this sequence:
 1.  **Title Slide:** Echoes in the Machine - Unveiling Hidden Depths
 2.  **The Mission:** Briefing on Socio-Medical Home Care Challenges
@@ -69,7 +69,7 @@ The presentation structure as delivered at CINETic follows this sequence:
 7.  **The Unexpected Knowledge Transfer:** Cross-Industry Translation into Neurology
 8.  **The Epiphany Engine:** AI as a Catalyst for Transversal Breakthroughs
 
-9.  ## Keywords
+## Keywords
 Genius Prompting` • `Visual Reverse-Engineering` • `AI-Assisted Self-Reflection` • `Deconstructive Creative Process` • `Emotional Reverse-Engineering` • `Rapid Script Engineering` • `Cognitive Breakthroughs` • `Transversal Innovation
 
-10.  [More information about this AI Conference and AI-augmented narratives ](https://cinetic.arts.ro/evenimente/ai-in-art-practices-and-research/)
+More information about this [AI Conference and AI-augmented narratives ](https://cinetic.arts.ro/evenimente/ai-in-art-practices-and-research/)
