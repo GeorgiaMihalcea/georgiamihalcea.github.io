@@ -7,8 +7,7 @@ venue: "AI in Art Practices and Research I"
 date: 2024-03-19
 location: "CINETic - UNATC, Bucharest, Romania"
 ---
-
-[More information about this AI Conference and AI-augmented narratives ](https://cinetic.arts.ro/evenimente/ai-in-art-practices-and-research/)
+Conference presentation detailing a 1-day strategic intervention using Gemini Advanced and Leo Tolstoy's text to reverse-engineer emotional storytelling and build machine-readable visual campaign structures.
 
 # Echoes in the Machine: Unveiling Hidden Depths through the Lens of Established Genius
 
@@ -68,4 +67,9 @@ The presentation structure as delivered at CINETic follows this sequence:
 5.  **The Visual Outputs:** Prototyping Frailty and Cinematic Tone
 6.  **The Master Script:** 1st Draft of "Silent Heroes"
 7.  **The Unexpected Knowledge Transfer:** Cross-Industry Translation into Neurology
-8.  **The Epiphany Engine:** AI as a Catalyst for Transversal Breakthroughs 
+8.  **The Epiphany Engine:** AI as a Catalyst for Transversal Breakthroughs
+
+9.  ## Keywords
+Genius Prompting` • `Visual Reverse-Engineering` • `AI-Assisted Self-Reflection` • `Deconstructive Creative Process` • `Emotional Reverse-Engineering` • `Rapid Script Engineering` • `Cognitive Breakthroughs` • `Transversal Innovation
+
+10.  [More information about this AI Conference and AI-augmented narratives ](https://cinetic.arts.ro/evenimente/ai-in-art-practices-and-research/)
