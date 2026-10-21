@@ -18,20 +18,22 @@ Education & Professional Training
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work Experience
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+*   **Filmmaker, Media Production & Cross-Industry Consultant**, *Independent*, 2019 – Present
+*   **Film & TV Production Management**, *Romania & International*, 2010 – Present
+*   **Problem Solver**, *Open Innovation (HeroX & InnoCentive)*, 2010 – Present
+*   **Teaching Assistant**, National University of Theatre and Film (UNATC), *New Media Department*, Bucharest, RO, 2025
+*   **Evaluator of Cultural Projects**, Administration of the National Cultural Fund (AFCN), *New Media & Digital Arts*, 2024
+*   **Grant & Project Designer**, *Cortina Cultural Association*, Bucharest, RO, 2021
+*   **Real Estate Sales & Marketing Specialist**, *BCS Imobiliare*, Bucharest, RO, 2015 – 2020
+*   **Co-Founder & General Manager**, *Innovation and R&D Cluster CLIMATE*, Bucharest, RO, 2017
+*   **Challenge Co-Designer**, HeroX – "Power the Globe: Myanmar", *Crowdsourcing*, 2017
+*   **Real Estate International Copywriter**, *Ganda Properties*, Tenerife, Spain, 2014  
+*   **Turnaround Management Consultant**, *Buftea Film Studios*, Bucharest, RO, 2009
+*   **SME Entrepreneur**, *Classy Grup*, Bucharest, RO, 2006 – 2014
+*   **Operations Manager**, *Pit Motors Leasing*, Bucharest, RO, 2004 – 2006
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
