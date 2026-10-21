@@ -1,7 +1,7 @@
 ---
 title: "Conference Presentation on Directing the Algorithmic Gaze and Reclaiming Creative Sovereignty through Semantic Architectures"
 collection: talks
-type: "Conference proceedings talk"
+type: "Conference peer-review presentation"
 permalink: /talks/2025-12-11-women-in-film
 venue: "Women in Film: Leadership, Creativity, and Interdisciplinary Perspectives"
 date: 2025-12-11
