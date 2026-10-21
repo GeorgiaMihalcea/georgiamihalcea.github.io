@@ -6,6 +6,7 @@ permalink: /publication/2025-12-11-directing-the-algorithmic-gaze
 excerpt: 'Research artifact, methodology, and data-driven end-to-end film production framework mapping out metadata-driven creative communication for next-generation digital ecosystems.'
 date: 2025-12-11
 venue: 'Zenodo Open Science Repository'
+slidesurl: 'https://zenodo.org/records/20777740'
 paperurl: 'https://zenodo.org/records/20777740'
 citation: 'Mihalcea, Georgia. (2025). Directing the Algorithmic Gaze: A Framework for Machine-Readable Films; <i>Zenodo, DOI 10.5281/zenodo.20777739.</i>.'
 ---
