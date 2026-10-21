@@ -5,13 +5,13 @@ permalink: /publication/2024-11-11-iceri-paper
 excerpt: 'Peer-reviewed Paper & Poster Presentation featured under Pedagogical Innovations & Creative AI at the 17th annual International Conference of Education, Research and Innovation (ICERI2024), Seville, Spain.'
 date: 2024-11-11
 venue: 'ICERI2024 Proceedings'
-paperurl: '[https://iated.org](https://library.iated.org/view/MIHALCEA2024FRO)'
+paperurl: 'https://library.iated.org/view/MIHALCEA2024FRO'
 citation: 'Mihalcea, G. (2024). From Numbness to Narrative: A Filmmaker’s AI-Augmented Journey to Emotional Resonance in Storytelling, Unveiling the Potential of a Structured Vocabulary of Emotions. In ICERI2024 Proceedings (pp. 3997-4001). <i>IATED. DOI: 10.21125/iceri.2024.1015</i>'
 ---
 
 ### Project Overview & Educational Impact
 
-This peer-reviewed paper and poster presentation detail an autoethnographic framework on generative tools assisting rapid emotional decoding, creative unlocking, and metadata-driven audiovisual content architecture for multi-profile audiences and algorithms. Access the full text and details via the [IATED Digital Library](https://iated.org) (DOI: [10.21125/iceri.2024.1015](https://doi.org)).
+This peer-reviewed paper and poster presentation detail an autoethnographic framework on generative tools assisting rapid emotional decoding, creative unlocking, and metadata-driven audiovisual content architecture for multi-profile audiences and algorithms. 
 
 ---
 
@@ -21,6 +21,6 @@ This research is recognized in international studies analyzing whether automated
 
 ### Alternative Titles
 
-* **The Unindexed Internal Web: Structuring Human Emotions as Metadata for Narrative Decryption**, published on [My Zenodo Repository](https://zenodo.org/records/20776522) 
+* **The Unindexed Internal Web: Structuring Human Emotions as Metadata for Narrative Decryption** - a different approach of the concept, published on [My Zenodo Repository](https://zenodo.org/records/20776522) 
 * **From Numbness to Narratable: A Search-Engine Framework for Indexing the Invisible Architecture of Emotions**
 * **Algorithmic Principles Applied to Human Emotion System: Re-Architecting Unstructured Feelings into Dual Storytelling Signals**
