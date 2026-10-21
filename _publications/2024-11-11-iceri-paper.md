@@ -1,6 +1,7 @@
 ---
 title: "From Numbness to Narrative: A Filmmaker's AI-Augmented Journey to Emotional Resonance in Storytelling, Unveiling the Potential of a Structured Vocabulary of Emotions. A Case-Study in Rapid Emotional Decoding for Enhanced Creative Communication."
 collection: publications
+category: manuscripts
 permalink: /publication/2024-11-11-iceri-paper
 excerpt: 'Peer-reviewed Paper & Poster Presentation featured under Pedagogical Innovations & Creative AI at the 17th annual International Conference of Education, Research and Innovation (ICERI2024), Seville, Spain.'
 date: 2024-11-11
