@@ -6,14 +6,15 @@ author_profile: true
 ---
 # Transversal Thinking for a Non-Linear World
 
-I am a filmmaker, media scholar, and digital communication consultant with a strong economic and business foundation. My work bridges human emotional expression and algorithmic systems, operating at the intersection of **Cinema, Information Architecture (IA), and the Semantic Web**. Through this synthesis, I focus on expanding audiovisual visibility, discovery, and human-machine communication in the generative era.
+I am a filmmaker, media scholar, and digital communication consultant with a strong economic and business foundation. My work bridges human emotional expression and algorithmic systems, operating at the intersection of **Cinema, Information Architecture (IA), Semantic Web, and GenAI**. Through this synthesis, I focus on expanding audiovisual visibility, discovery, and human-machine communication in the generative era. The primary objective of my research framework is to establish an interchangeable, bilingual system where narrative art is structured to be simultaneously mind-readable (deeply resonant for human audiences) and machine-readable (perfectly discoverable and legible to AI and search and recommendation algorithms).
 
-## Research Focus: Directing the Algorithmic Gaze – A Framework for Machine-Readable Films
+## Research Focus: Directing the Algorithmic Gaze – A Framework for Machine-Readable Films and Audiovisual Content
 
 My intellectual framework is rooted in **practice-based research** and **autoethnography**. I use my own creative filmmaking and synthetic media production as primary testing grounds. This highly reflexive loop allows me to dissect the cognitive and systemic nuances of human-machine collaboration, translating deeply personal artistic insights into structured, interoperable data models—pioneering the concept of **The Self-Communicating Film**.
 
 *   **Mise-en-Sense:** The core of my research involves shifting the cinematic paradigm from traditional *Mise-en-Scène* (form-first) to *Mise-en-Sense* (meaning-first). Through this framework of *Directing the Algorithmic Gaze*, I structure audiovisual content to make narrative and emotional layers natively **machine-readable** and processable by next-generation search and answer engines. Read more about the framework applications in my **[Portfolio](/portfolio/)**.
-  *   **From Numbness to Narrative:** An emotional semantic modeling system designed to convert unstructured affective experiences into standardized, metadata-driven taxonomies, allowing AI tools to interpret and assist human storytelling. This methodology was peer-reviewed and presented at international **[Conferences](/talks/)**.
+* **From Numbness to Narrative:** An emotional semantic modeling system designed to convert unstructured affective experiences into standardized, metadata-driven taxonomies, allowing AI tools to interpret and assist human storytelling. This methodology was peer-reviewed and presented at international **[Conferences](/talks/)**.
+* **Original Core Concepts:** *Informational Montage*, *Semantic Decoupage*, *Informational Cinema*, *Semantic Filmmaking*.
 
 ## Advanced Problem Solving and Challenge Design via Open Innovation Platforms
 
