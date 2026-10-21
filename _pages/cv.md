@@ -59,14 +59,31 @@ Education & Professional Training
     *   International Copywriting & Transmedia Narrative Mapping
 
 # Filmography, Research-Creation and Autoethnography Portfolio
-======
-*   *Traditional Films:* Locationista (2021, dramedy) | Article 22 (2020, legal drama) | Sunmoon (2020, hybrid)
-*   *Synthetic & Semantic Films:* San Pedro's Dream: Hello from E-Time (2024, Mise-en-Sense framework) | A Creator's Memoir: Sculpting the Void (2026, personal narrative)
-*   *Brand & Social Impact Films:* Silent Heroes (2024, fundraising narrative)
-*   *Transmedia - Films to Music Videos:* Sombras en la piel (2026) | Truth Never Dies (2024)
-*   *Docu-Interviews:* We Are Solvers: Polymaths (2016, documenting elite crowdsourcing problem solvers)
-*   *Artbooks & Research-Creation Artifacts - via Semantic Storytelling:* Quiet Affection (2025) | Thorned Ties (2025) | Crimson Soul (2025) | Prayers for My Last Self: The Epilogue of Becoming (work in progress)
 
+*   *Traditional Films:*
+    *   **Locationista** (2021, dramedy)
+    *   **Article 22** (2020, legal drama)
+    *   **Sunmoon** (2020, hybrid)
+
+*   *Synthetic & Semantic Films:*
+    *   **San Pedro's Dream: Hello from E-Time** (2024, Mise-en-Sense framework)
+    *   **A Creator's Memoir: Sculpting the Void** (2026, personal narrative)
+
+*   *Brand & Social Impact Films:*
+    *   **Silent Heroes** (2024, fundraising narrative)
+
+*   *Transmedia – Films to Music Videos:*
+    *   **Sombras en la piel** (2026)
+    *   **Truth Never Dies** (2024)
+
+*   *Docu-Interviews:*
+    *   **We Are Solvers: Polymaths** (2016, documenting elite crowdsourcing problem solvers)
+
+*   *Artbooks & Research-Creation Artifacts (via Semantic Storytelling):*
+    *   **Quiet Affection** (2025)
+    *   **Thorned Ties** (2025)
+    *   **Crimson Soul** (2025)
+    *   **Prayers for My Last Self: The Epilogue of Becoming** (work in progress)
 
 Publications
 ======
