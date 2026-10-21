@@ -16,9 +16,8 @@ Education & Professional Training
 * **BSc / MSc in Economic Sciences, "Titu Maiorescu" University, Bucharest, Romania, 1997 – 2002**
     *   *Specialization:* Financial Accounting and Management of Information Systems
 
-======
 # Work Experience
-
+======
 *   **Filmmaker, Media Production & Cross-Industry Consultant**, *Independent*, 2019 – Present
 *   **Film & TV Production Management**, *Romania & International*, 2010 – Present
 *   **Problem Solver**, *Open Innovation (HeroX & InnoCentive)*, 2010 – Present
@@ -33,9 +32,8 @@ Education & Professional Training
 *   **SME Entrepreneur**, *Classy Group*, Bucharest, RO, 2006 – 2014
 *   **Operations Manager**, *Pit Motors Leasing*, Bucharest, RO, 2004 – 2006
 
-  ======
-# Skills & Core Competencies
-
+ # Skills & Core Competencies
+ ======
 *   **Narrative Intelligence & Semantic Architectures**
     *   *Mise-en-Sense* Framework Development & Content Structuring
     *   Machine-Readable Film Architecture & Metadata Design
@@ -59,6 +57,15 @@ Education & Professional Training
     *   Information Architecture (IA) & Semantic Web Principles
     *   Financial Accounting & Management of Information Systems
     *   International Copywriting & Transmedia Narrative Mapping
+
+# Filmography, Research-Creation and Autoethnography Portfolio
+======
+*   *Traditional Films:* Locationista (2021, dramedy) | Article 22 (2020, legal drama) | Sunmoon (2020, hybrid)
+*   *Synthetic & Semantic Films:* San Pedro's Dream: Hello from E-Time (2024, Mise-en-Sense framework) | A Creator's Memoir: Sculpting the Void (2026, personal narrative)
+*   *Brand & Social Impact Films:* Silent Heroes (2024, fundraising narrative)
+*   *Transmedia - Films to Music Videos:* Sombras en la piel (2026) | Truth Never Dies (2024)
+*   *Docu-Interviews:* We Are Solvers: Polymaths (2016, documenting elite crowdsourcing problem solvers)
+*   *Artbooks & Research-Creation Artifacts - via Semantic Storytelling:* Quiet Affection (2025) | Thorned Ties (2025) | Crimson Soul (2025) | Prayers for My Last Self: The Epilogue of Becoming (work in progress)
 
 
 Publications
