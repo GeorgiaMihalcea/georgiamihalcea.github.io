@@ -7,7 +7,7 @@ author_profile: true
 Education
 ======
 *   **Ph.D. in Cinema and Media Studies**
-    *   *Dissertation:* "From Mise-en-Scène to Mise-en-Sense: Directing the Algorithmic Gaze"
+    *   *Dissertation:* "The E-Film: From Algorithms to Audience". Cultivating the *Mise-en-Sense* & Directing the Algorithmic Gaze Framework*
     *   *Research Focus:* Developing a unified framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-machine communication.
 
 * M.S. in Jekyll, GitHub University, 2014
