@@ -8,7 +8,7 @@ date: 2025-12-11
 venue: 'Zenodo Open Science Repository'
 slidesurl: 'https://zenodo.org/records/20777740'
 paperurl: 'https://zenodo.org/records/20777740'
-citation: 'Mihalcea, Georgia. (2025). Directing the Algorithmic Gaze: A Framework for Machine-Readable Films; <i>Zenodo, DOI 10.5281/zenodo.20777739</i>.'
+citation: 'Mihalcea, G. (2025, December 11). Directing the Algorithmic Gaze: A Framework for Machine-Readable Films. Zenodo. Women in Film: Leadership, Creativity, and Interdisciplinary Perspectives (HER - Her Story Her Future), Bucharest, Romania. https://doi.org/10.5281/zenodo.20777740.'
 ---
 ## Alternative Titles
 * **Directing the Algorithmic Gaze: Authorial Control in Generative Workflows**
