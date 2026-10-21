@@ -24,13 +24,13 @@ repository               : "GeorgiaMihalcea/georgiamihalcea.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  name             : "Georgia Mihalcea"
+  pronouns         : "she/her"  
+  bio              : "Filmmaker, media scholar & digital communication consultant."
+  location         : "Bucharest, Romania"
+  employer         : "Independent"
+  uri              : https://www.georgiamihalcea.ro
+  email            : "georgia.mihalcea88@gmail.com" 
 
   # Academic websites
   academia         : # URL
