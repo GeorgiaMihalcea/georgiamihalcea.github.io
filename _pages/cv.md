@@ -1,17 +1,14 @@
 ---
 layout: archive
-title: "CV"
+title: "CV - Transdisciplinary Systems Integrator"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
-
-{% include base_path %}
-
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Cinema and Media Studies, National University of Theatre and Film "I.L. Caragiale", 2026 (expected)
+*Dissertation:* From Mise-en-Scène to Mise-en-Sense: Directing the Algorithmic Gaze"
+*Research Focus:* Developing a unified communication framework to integrate audiovisual content into digital infrastructures, driving enhanced visibility, semantic discovery, and precise human-AI communication.
 * M.S. in Jekyll, GitHub University, 2014
 * B.S. in GitHub, GitHub University, 2012
 
