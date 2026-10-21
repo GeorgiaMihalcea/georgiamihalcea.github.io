@@ -8,8 +8,6 @@ date: 2025-10-26
 location: "CINETic/UNATC, Bucharest, Romania"
 ---
 
-[More information about this AI Conference and Masterclass about AI-ready narrative structures in film production](https://cinetic.arts.ro/en/evenimente/ai-in-art-practices-and-research-conference-ii/)
-
 An intensive research-creation masterclass for postgraduate students and industry professionals (screen writers, directors, producers, distributors). The session practically demonstrated the technical deployment of metadata schemas to build interconnected, machine-readable video structures based on the *Mise-en-Sense* framework.
 
 # The Self-Communicating Film: Narrative Decryption for a New AI-Ready Cinema
@@ -53,3 +51,5 @@ A precise structural practice that maps the architecture of sense within a film.
 
 ## Core Research Keywords
 `Narrative Decryption` • `Informational Montage` • `Machine-Readable Filmmaking` • `Film Communication` • `Human-Machine Communication` • `AI-Ready Cinema` • `End-to-End Film Production Framework` • `Algorithmic Film Distribution` • `Film Discovery`
+
+[More information about this AI Conference and Masterclass about AI-ready narrative structures in film production](https://cinetic.arts.ro/en/evenimente/ai-in-art-practices-and-research-conference-ii/)
