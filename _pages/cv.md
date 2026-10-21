@@ -61,26 +61,26 @@ Skills & Core Competencies
 Filmography, Research-Creation and Autoethnography Portfolio
 ======
 *   *Traditional Films:*
-    *   **Locationista** (2021, dramedy)
-    *   **Article 22** (2020, legal drama)
-    *   **Sunmoon** (2020, hybrid)
+    *   **[Locationista](https://www.georgiamihalcea.ro/cinema-media/filme-autor/locationista-scurtmetraj-comedie-dramatica)** (2021, dramedy)
+    *   **[Article 22](https://www.georgiamihalcea.ro/cinema-media/filme-autor/articolul-22-scurtmetraj-drama-anticoruptie)** (2020, legal drama)
+    *   **[Sunmoon](https://www.georgiamihalcea.ro/cinema-media/filme-autor/sunmoon-scurtmetraj-experimental-blended-reality)** (2020, hybrid)
 
-*   *Synthetic & Semantic Films:*
-    *   **San Pedro's Dream: Hello from E-Time** (2024, Mise-en-Sense framework)
-    *   **A Creator's Memoir: Sculpting the Void** (2026, personal narrative)
+*   *AI Semantic Films:*
+    *   **[San Pedro's Dream: Hello from E-Time](https://www.georgiamihalcea.ro/cinema-media/filme-autor/san-pedros-dream-film-ai-experimental)** (2026, Mise-en-Sense framework)
+    *   **[A Creator's Memoir: Sculpting the Void](https://www.youtube.com/watch?v=18WmOsWNReU)** (2026, personal narrative)
 
 *   *Brand & Social Impact Ad-Films & Commercials:*
-    *   **Silent Heroes** (2024, fundraising narrative for Fundația Crucea Alb-Galbenă, România)
+    *   **[Silent Heroes](https://www.youtube.com/watch?v=A54EYNcqBr8)** (2024, fundraising narrative for Fundația Crucea Alb-Galbenă, România)
     *   **The Legend of the Horses: Emotional Health Camps via Equine-Assisted Therapy** (2026, radio promotion spot for Asociația Legenda Cailor, România)
 
 *   *Transmedia – Films to Music Videos:*
-    *   **Sombras en la piel** (2026)
-    *   **Truth Never Dies** (2024)
+    *   **[Sombras en la piel](https://www.youtube.com/shorts/aVrpMK-C7VQ)** (2026)
+    *   **[Truth Never Dies](https://www.youtube.com/watch?v=Ukib2ZXA2is)** (2024)
 
 *   *Docu-Interviews:*
-    *   **We Are Solvers: Polymaths** (2016, documenting elite crowdsourcing problem solvers)
+    *   **[We Are Solvers: Polymaths](https://www.youtube.com/playlist?list=PLPdF987NHKhnPMEjHw6i5y8c8LufJm6en)** (2016, documenting elite crowdsourcing problem solvers)
 
-*   *Artbooks & Research-Creation Artifacts (via Semantic Storytelling):*
+*   *Artbooks & Research-Creation Artifacts (via Semantic Storytelling):* - *[The Soul's Unfolding Artbooks Collection](https://www.amazon.com/dp/B0FH26RXLP)*
     *   **Quiet Affection** (2025)
     *   **Thorned Ties** (2025)
     *   **Crimson Soul** (2025)
