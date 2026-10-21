@@ -11,13 +11,13 @@ citation: 'Mihalcea, G. (2024). From Numbness to Narrative: A Filmmaker’s AI-A
 
 ### Project Overview & Educational Impact
 
-This peer-reviewed paper and poster presentation detail an autoethnographic framework on generative tools assisting emotional decoding and digital content architecture. Access the full text and details via the [IATED Digital Library](https://iated.org) (DOI: [10.21125/iceri.2024.1015](https://doi.org)).
+This peer-reviewed paper and poster presentation detail an autoethnographic framework on generative tools assisting rapid emotional decoding, creative unlocking, and metadata-driven audiovisual content architecture for multi-profile audiences and algorithms. Access the full text and details via the [IATED Digital Library](https://iated.org) (DOI: [10.21125/iceri.2024.1015](https://doi.org)).
 
 ---
 
 ### Global Academic Recognition
 
-This research is recognized in international studies analyzing automated content workflows, such as *Algorithmic Scriptwriting and the Preservation of Human Emotional Resonance in Narrative Broadcasting* (2025), published in the [BEAM Journal](https://journal.sundarapublishing.com/index.php/beam/article/view/149).
+This research is recognized in international studies analyzing whether automated content generation can maintain the depth of human emotional resonance traditionally embedded in storytelling, such as *Algorithmic Scriptwriting and the Preservation of Human Emotional Resonance in Narrative Broadcasting* (2025), published in the [BEAM Journal](https://journal.sundarapublishing.com/index.php/beam/article/view/149).
 
 ### Alternative Titles
 
