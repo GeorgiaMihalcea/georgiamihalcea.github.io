@@ -8,7 +8,8 @@ date: 2025-12-11
 location: "CINETic/UNATC, Bucharest, Romania"
 ---
 
-[An academic presentation exploring the intersection of film theory and semantic architectures. The session introduced the *Mise-en-Sense* methodology as a tool for independent creators to structure narrative intent, ensuring visibility and authorial sovereignty within AI-driven algorithmic distribution channels.]
+[An academic presentation exploring the intersection of film theory and semantic architectures. The session introduced the *Mise-en-Sense* methodology as a tool for independent creators to structure narrative intent, ensuring visibility and authorial sovereignty within AI-driven algorithmic distribution channels. Conference presentation addressing the conflict between closed film forms and non-linear networks, introducing creator-authored ontologies to secure intellectual property and creative sovereignty in the age of AI.]
+
 
 # Directing the Algorithmic Gaze: Reclaiming Creative Sovereignty through Semantic Architectures
 
@@ -78,7 +79,7 @@ We must stop fighting for control over external platform algorithms and start en
 
 ---
 
-## Core Presentation Keywords
-`Creative Sovereignty` • `Algorithmic Gaze` • `Meaning-First Cinema` • `Narrative Decryptor` • `Informational Montage` • `Semantic Découpage` • `Semantic Blueprint` • `Creator Autonomy` • `Data Interoperability` • `Machine-Readable Art`
+## Keywords
+Creative Sovereignty` • `Algorithmic Gaze` • `Meaning-First Cinema` • `Narrative Decryptor` • `Informational Montage` • `Semantic Découpage` • `Semantic Blueprint` • Creator Autonomy` • `Data Interoperability` • `Machine-Readable Art`
 
 Download presentation [*Directing the Algorithmic Gaze*](https://georgiamihalcea.github.io/publication/2025-12-11-directing-the-algorithmic-gaze)
