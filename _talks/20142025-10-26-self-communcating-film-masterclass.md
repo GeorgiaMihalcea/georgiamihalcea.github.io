@@ -1,5 +1,5 @@
 ---
-title: "Conference Masterclass on Narrative Decryption for a New AI-Ready Cinema & The Self-Communicating Film"
+title: "Conference Masterclass on Narrative Decryption, AI-ready narrative structures & The Self-Communicating Film"
 collection: talks
 type: "Masterclass"
 permalink: /talks/2025-10-26-self-communcating-film-masterclass
