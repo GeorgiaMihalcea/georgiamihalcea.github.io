@@ -1,11 +1,11 @@
 ---
 layout: single
-title: ""
+title: "Collaborations"
 permalink: /services/
 author_profile: true
 ---
 
-# Strategic Interventions & Fractional Advisory
+## Strategic Interventions & Fractional Advisory
 
 I provide strategic interventions for entities operating at the intersection of media, technology, and information architecture. I am available globally for selective **fractional roles, project-based collaborations, and advisory boards**.
 
