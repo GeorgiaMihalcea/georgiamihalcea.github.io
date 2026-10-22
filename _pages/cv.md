@@ -32,6 +32,12 @@ Work Experience
 *   **SME Entrepreneur**, *Classy Group*, Bucharest, RO, 2006 – 2014
 *   **Operations Manager**, *Pit Motors Leasing*, Bucharest, RO, 2004 – 2006
 
+Teaching Experience
+======
+  <ul>{% for post in site.teaching reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 Skills & Core Competencies
 ======
 *   **Narrative Intelligence & Semantic Architectures**
@@ -96,12 +102,6 @@ Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Service and leadership
