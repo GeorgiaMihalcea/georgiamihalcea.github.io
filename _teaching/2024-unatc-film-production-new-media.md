@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant: New Media"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2024-unatc-film-production-new-media
