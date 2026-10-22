@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+permalink: /teaching/2024-unatc-film-production-new-media
+venue: "UNATC I.L. Caragiale - Film Faculty, New Media Department"
+date: 2024-10-01
+location: "Bucharest, Romania"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Assisted professors in practical and theoretical modules for the **Film Production and Directing of New Media** undergraduate program.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+* Conducted practical labs and student consultations.
+* Guided students through digital media workflows, directing techniques, and new media project development.
