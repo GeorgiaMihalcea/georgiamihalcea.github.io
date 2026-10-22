@@ -104,6 +104,19 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* TBD
+*   ** Digital & Media Literacy & AI Educator for SMEs**, *Romania* | 2010 – Present
+    *   Providing volunteer educational consulting and hands-on guidance to local small business owners and entrepreneurs to help them understand the value of audiovisual storytelling for their brands and to navigate complex digital environments, optimize internal tools, and enhance organic digital visibility.
+
+*   **Volunteer Facilitator**, *WeAreDevelopers World Congress (Vienna, Austria)* | 2017
+    *   Contributed to operational and coordination support at Europe’s largest tech community flagship event, tracking emerging engineering trends and cross-industry human-machine communication frameworks.
+
+*   **Expert Juror & Cultural Evaluator**, *Administration of the National Cultural Fund (AFCN)*, Bucharest, RO | 2024
+    *   Appointed as an independent expert evaluator to review and allocate public grants within the **New Media & Digital Arts** national category.
+
+*   **Independent Documentary Producer & Archivist**, *"We Are Solvers: Polymaths"* Project | 2016
+    *   Initiated, filmed, and directed a self-funded documentary-interview series mapping out and archiving the cognitive methods of global elite crowdsourcing problem solvers.
+
+*   **Co-Founder & General Manager**, *Innovation and R&D Cluster CLIMATE*, Bucharest, RO | 2017
+    *   Architected the structural network design to bridge academic researchers with tech innovators and private business stakeholders.
