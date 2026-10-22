@@ -1,7 +1,7 @@
 ---
 title: "Conference Proceeding and Poster on AI-Augmented Filmmaking & Emotional Resonance in Storytelling"
 collection: talks
-type: "Poster Presentation"
+type: "Peer-reviewed Paper & Poster Presentation"
 permalink: /talks/2024-11-11-audiovisual-innovations-storytelling-and-discovery
 venue: "17th annual International Conference of Education, Research and Innovation (ICERI2024)"
 date: 2024-11-11
