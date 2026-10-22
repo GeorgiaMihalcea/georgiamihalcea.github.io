@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Masterclass: The Self-Communicating Film"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Research-based Masterclass / Workshop"
+permalink: /teaching/2026-masterclass-phd-methodology-mise-en-sense
+venue: "Independent Industry Sessions"
+date: 2025-09-01
+location: "Various / International"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Independent masterclasses and workshops delivered on-demand for industry professionals, focusing on the practical application of my doctoral research methodology Mise-en-Sense.
