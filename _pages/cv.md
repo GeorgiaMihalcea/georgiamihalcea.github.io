@@ -38,6 +38,32 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Skills & Core Competencies
+======
+*   **Narrative Intelligence & Semantic Architectures**
+    *   *Mise-en-Sense* Framework Development & Content Structuring
+    *   Machine-Readable Film Architecture & Metadata Design
+    *   Emotional Semantic Modeling & Affective Taxonomies
+    *   AI-Augmented Storytelling & Synthetic Media Production
+
+*   **Advanced Problem Solving & Innovation Management**
+    *   Open Innovation Challenge Design & Brief Decomposition (HeroX, InnoCentive)
+    *   Transversal Systems Integration (Cross-Industry Problem Solving)
+    *   Strategic Intervention & Turnaround Management 
+    *   Crowdsourcing Campaign Strategy & Solution/Project Evaluation
+
+*   **Audiovisual Production & Project Engineering**
+    *   Film, TV & Media Production Management (Traditional, Transmedia & AI)
+    *   Grant Architecture & Cultural Project Design
+    *   Algorithmic Content Distribution & Enhanced Digital Visibility
+    *   Budgeting, Resource Optimization & Operations Management
+
+*   **Digital Systems & Business Analytics**
+    *   Search Engine Optimization (SEO) & Answer Engine Optimization (AEO)
+    *   Information Architecture (IA) & Semantic Web Principles
+    *   Financial Accounting & Management of Information Systems
+    *   International Copywriting & Transmedia Narrative Mapping
+
 Awarded Solutions to Problems Launched in Open Innovation Leading Platforms
 ======
 
@@ -68,33 +94,6 @@ Awarded Solutions to Problems Launched in Open Innovation Leading Platforms
 *   **Finalist Framework, Micro-Economics & Social Business**, *Social Business Tour CEE*, 2010
     *   *Challenge:* "Social Business Competition" (Yunus Nobel Economic Model)
     *   *The Solution:* Projected a self-sustainable, highly resilient community-development framework titled *"A Good House for Bad Times"*, aligning macroeconomic structural models with grass-roots local architecture.
-
-
-Skills & Core Competencies
-======
-*   **Narrative Intelligence & Semantic Architectures**
-    *   *Mise-en-Sense* Framework Development & Content Structuring
-    *   Machine-Readable Film Architecture & Metadata Design
-    *   Emotional Semantic Modeling & Affective Taxonomies
-    *   AI-Augmented Storytelling & Synthetic Media Production
-
-*   **Advanced Problem Solving & Innovation Management**
-    *   Open Innovation Challenge Design & Brief Decomposition (HeroX, InnoCentive)
-    *   Transversal Systems Integration (Cross-Industry Problem Solving)
-    *   Strategic Intervention & Turnaround Management 
-    *   Crowdsourcing Campaign Strategy & Solution/Project Evaluation
-
-*   **Audiovisual Production & Project Engineering**
-    *   Film, TV & Media Production Management (Traditional, Transmedia & AI)
-    *   Grant Architecture & Cultural Project Design
-    *   Algorithmic Content Distribution & Enhanced Digital Visibility
-    *   Budgeting, Resource Optimization & Operations Management
-
-*   **Digital Systems & Business Analytics**
-    *   Search Engine Optimization (SEO) & Answer Engine Optimization (AEO)
-    *   Information Architecture (IA) & Semantic Web Principles
-    *   Financial Accounting & Management of Information Systems
-    *   International Copywriting & Transmedia Narrative Mapping
 
 Filmography, Research-Creation and Autoethnography Portfolio
 ======
