@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Collaborations"
+title: "Collaboration"
 permalink: /services/
 author_profile: true
 ---
