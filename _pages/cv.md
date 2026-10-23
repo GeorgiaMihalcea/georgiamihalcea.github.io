@@ -38,7 +38,7 @@ Teaching Experience
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-Awarded Solutions & Open Innovation Victories
+Awarded Solutions to Problems Launched in Open Innovation Leading Platforms
 ======
 
 *   **1st Place Winner - Culture category, Leadership Training Framework**, *Bereny Group (HeroX Platform)*, 2017
