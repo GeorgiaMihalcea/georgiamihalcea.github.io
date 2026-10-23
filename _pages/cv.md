@@ -107,7 +107,7 @@ Talks
 Service and Leadership
 ======
 
-*   ** Digital & Media Literacy & AI Educator for SMEs**, *Romania*, 2010 – Present
+*   ** Digital & Media Literacy & AI Educator for SMEs**, Romania*, 2010 – Present
     *   Providing volunteer educational consulting and hands-on guidance to local small business owners and entrepreneurs to help them understand the value of audiovisual storytelling for their brands and to navigate complex digital environments, optimize internal tools, and enhance organic digital visibility.
 
 *   **Volunteer Facilitator**, *WeAreDevelopers World Congress (Vienna, Austria)*, 2017
