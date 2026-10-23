@@ -41,27 +41,31 @@ Teaching Experience
 Awarded Solutions & Open Innovation Victories
 ======
 
-*   **1st Place Winner - Culture category | Leadership Training Framework**, *Bereny Group (HeroX Platform)*, 2017
+*   **1st Place Winner - Culture category, Leadership Training Framework**, *Bereny Group (HeroX Platform)*, 2017
     *   *Challenge:* "Patterns for Success"
     *   *The Solution:* Developed a comprehensive leadership training methodology designed to stabilize and scale small businesses operating in high-risk, volatile environments within the USA.
 
-*   **1st Place Winner | Autobiographical Narrative Architecture**, *Your Path to the Prize (HeroX Platform)*, 2017
-    *   *Challenge:* Unleash Your Superhero - Your Path to the Prize
+*   **1st Place Winner, Autobiographical Narrative Architecture**, *Your Path to the Prize (HeroX Platform)*, 2017
+    *   *Challenge:* Unleash Your Superhero
     *   *The Solution:* "Hey, you're a dreamer?" Watch ["A Creator's Memoir"](https://www.youtube.com/watch?v=18WmOsWNReU&t=3s) - the story's translation into an AI narrated short documentary.
 
-*   **Awarded Solution | Peace, Security & Dual-Use Technology**, *N Square & Stimson Center (InnoCentive)*, 2017
+*   **Awarded Solution, Peace, Security & Dual-Use Technology**, *N Square & Stimson Center (InnoCentive)*, 2017
     *   *Challenge:* "Nuclear Non-Proliferation Platform"
     *   *The Solution:* Architected a strategic, cross-industry information source-to-share digital architecture designed to monitor, track, and prevent the global proliferation of dual-use technologies.
 
-*   **Awarded Solution | FinTech & Human-Machine Emotional Infrastructure**, *Anonymous Seeker (InnoCentive)*, 2015
+*   **Awarded Solution, FinTech & Human-Machine Emotional Infrastructure**, *Anonymous Seeker (InnoCentive)*, 2015
     *   *Challenge:* "Humanizing Customer Digital Experience"
     *   *The Solution:* Designed a scalable, AI-driven digital application framework focused on embedding deep emotional connections and sensory aesthetics at physical ATM/POS banking touchpoints.
+ 
+*   **Awarded Solution - Narrative Assistance, Knowledge Translation & Space Engineering**, *Space Games Federation*, 2012
+    *   *Challenge:* "Zero Gordian"
+    *   *The Solution:* Translated the highly complex, abstract technical blueprints of Michael Ricciardi's aerospace engineering solution into a computer-generated video narrative that facilitated multi-stakeholder communication and drove the final project win.
 
-*   **Awarded Solution | Healthcare Infrastructure & Personalized Nutrition**, *Anonymous Seeker (InnoCentive)*, 2011
+*   **Awarded Solution, Healthcare Infrastructure & Personalized Nutrition**, *Anonymous Seeker (InnoCentive)*, 2011
     *   *Challenge:* "Models for Sourcing Food Databases"
     *   *The Solution:* Architected a transdisciplinary data management system bridging clinical medical diagnostics with real-time customized nutritional treatments through integrated global databases.
 
-*   **Finalist Framework | Micro-Economics & Social Business**, *Social Business Tour CEE*, 2010
+*   **Finalist Framework, Micro-Economics & Social Business**, *Social Business Tour CEE*, 2010
     *   *Challenge:* "Social Business Competition" (Yunus Nobel Economic Model)
     *   *The Solution:* Projected a self-sustainable, highly resilient community-development framework titled *"A Good House for Bad Times"*, aligning macroeconomic structural models with grass-roots local architecture.
 
